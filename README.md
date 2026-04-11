@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
