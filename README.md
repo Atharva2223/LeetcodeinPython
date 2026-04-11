@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0414-third-maximum-number) |
 ## Matrix
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
