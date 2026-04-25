@@ -1,20 +1,14 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ans = []
-        
-        def rec(idx, curr):
+        result = []
+        def solve(idx, subset):
             if idx == len(nums):
-                ans.append(curr.copy())
+                result.append(subset.copy())
                 return
-            
-            # include current element
-            curr.append(nums[idx])
-            rec(idx + 1, curr)
-            
-            # exclude current element (backtrack)
-            curr.pop()
-            rec(idx + 1, curr)
-        
-        rec(0, [])
-        return ans
-        
+
+            subset.append(nums[idx])
+            solve(idx+1, subset)
+            subset.pop()
+            solve(idx+1, subset)
+        solve(0, [])
+        return result
