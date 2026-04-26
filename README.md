@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -78,9 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
