@@ -1,7 +1,15 @@
 class Solution:
-    def __init__(self):
-        # Phone keypad mapping - same as traditional phone buttons
-        self.digits_to_letters = {
+    def solve(self, index,subset,ch_map, digits, result):
+        if index >= len(digits):
+            result.append("".join(subset))
+            return 
+        for ch in ch_map[digits[index]]:
+            subset.append(ch)
+            self.solve(index+1,subset,ch_map,digits, result)
+            subset.pop()
+    def letterCombinations(self, digits: str) -> List[str]:
+        result = []
+        ch_map ={
             "2": "abc",
             "3": "def", 
             "4": "ghi",
@@ -11,27 +19,6 @@ class Solution:
             "8": "tuv",
             "9": "wxyz",
         }
-
-    def helper(self, digits, ans, index, current):
-        # Base case: processed all digits, we have a complete combination
-        if index == len(digits):
-            ans.append(current)  # Add the complete combination to results
-            return
-
-        # Get all possible letters for the current digit
-        letters = self.digits_to_letters.get(digits[index], "")
         
-        # Try each possible letter for this digit position
-        for letter in letters:
-            # Recursive call: move to next digit, extend current combination
-            self.helper(digits, ans, index + 1, current + letter)
-
-    def letterCombinations(self, digits):
-        ans = []
-        # Handle edge case: empty input
-        if not digits:
-            return ans
-        
-        # Start the backtracking process
-        self.helper(digits, ans, 0, "")  # index=0, current=""
-        return ans
+        self.solve(0,[],ch_map,digits, result)
+        return result
