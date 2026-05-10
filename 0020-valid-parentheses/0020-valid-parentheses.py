@@ -1,17 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        # Early exit: odd length can't be balanced
-        if len(s) & 1:
-            return False
-
         stack = []
-        expect = {'(' : ')', '[' : ']', '{' : '}'}
 
-        for ch in s:
-            if ch in expect:                 # opening -> push the expected closer
-                stack.append(expect[ch])
-            else:                             # closing -> must match top
-                if not stack or stack.pop() != ch:
+        for bracket in s:
+            if bracket == "(" or bracket == "[" or bracket == "{":
+                stack.append(bracket)
+            else:
+                if len(stack) == 0:
                     return False
+                e = stack.pop()
+                if (bracket == ")" and e == "(") or (bracket == "]" and e == "[") or (bracket == "}"and e == "{"):
+                    continue
+                else:
+                    return False
+        return len(stack) == 0
 
-        return not stack
+
+        
