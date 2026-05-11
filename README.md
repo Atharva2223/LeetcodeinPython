@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0735-asteroid-collision) |
 ## Matrix
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0735-asteroid-collision) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
