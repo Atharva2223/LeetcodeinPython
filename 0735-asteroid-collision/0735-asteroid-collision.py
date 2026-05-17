@@ -1,10 +1,11 @@
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
-        
-        n = len(asteroids)
+
+        num = len(asteroids)
+
         stack = []
 
-        for i in range(0,n):
+        for i in range(0,num):
 
             if asteroids[i] > 0:
                 stack.append(asteroids[i])
@@ -12,9 +13,11 @@ class Solution:
 
                 while len(stack)!=0 and stack[-1] > 0 and stack[-1] < abs(asteroids[i]):
                     stack.pop()
-
-                if len(stack)!=0 and stack[-1] == abs(asteroids[i]):
+                
+                if len(stack) != 0 and stack[-1] == abs(asteroids[i]):
                     stack.pop()
-                elif len(stack) ==0 or stack[-1]<0:
+                elif len(stack) == 0 or stack[-1] < 0:
                     stack.append(asteroids[i])
         return stack
+
+        
