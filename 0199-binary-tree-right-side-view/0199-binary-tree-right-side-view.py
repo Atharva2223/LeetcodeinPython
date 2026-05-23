@@ -5,35 +5,22 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def solve(self,node,level_size,ans):
+
+        if node is None:
+            return 
+        
+        if len(ans) == level_size:
+            ans.append(node.val)
+       
+        self.solve(node.right,level_size+1,ans)
+        self.solve(node.left,level_size+1,ans)
+        
+
+
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
 
-        result = []
+        ans= []
+        self.solve(root,0,ans)
+        return ans
 
-        queue = deque()
-
-        if root is None:
-            return result
-        
-
-        queue.append(root)
-
-        while len(queue)!= 0:
-
-            level_size = len(queue)
-
-           
-
-            
-
-            for i in range(0,level_size):
-                node = queue.popleft()
-
-                if i == level_size-1:
-                    result.append(node.val)
-
-                if node.left:
-                    queue.append(node.left)
-                if node.right:
-                    queue.append(node.right)
-        return result
-        
