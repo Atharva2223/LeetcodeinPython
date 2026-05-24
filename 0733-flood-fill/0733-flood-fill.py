@@ -7,8 +7,10 @@ class Solution:
             return
         if visited[i][j] != initial_color:
             return
-        if visited[i][j] == initial_color:
-            visited[i][j] = new_color
+        if visited[i][j] == new_color:
+            return
+        
+        visited[i][j] = new_color
             
         self.dfs(i + 1, j, new_color, initial_color, visited, rows, cols)
         self.dfs(i, j + 1, new_color, initial_color, visited, rows, cols)
