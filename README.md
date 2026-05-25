@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0503-next-greater-element-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1020-number-of-enclaves) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0543-diameter-of-binary-tree) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0994-rotting-oranges) |
@@ -197,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
