@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0035-search-insert-position) |
+| [1004-max-consecutive-ones-iii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -233,4 +235,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
