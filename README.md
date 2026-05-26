@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0208-implement-trie-prefix-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0208-implement-trie-prefix-tree) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0210-course-schedule-ii) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
