@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0208-implement-trie-prefix-tree) |
 | [0904-fruit-into-baskets](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0876-middle-of-the-linked-list) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0225-implement-stack-using-queues) |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
