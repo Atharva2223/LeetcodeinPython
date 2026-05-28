@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3207-maximum-points-after-enemy-battles](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3207-maximum-points-after-enemy-battles) |
 ## Matrix
 |  |
 | ------- |
@@ -263,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0146-lru-cache) |
+## Greedy
+|  |
+| ------- |
+| [3207-maximum-points-after-enemy-battles](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3207-maximum-points-after-enemy-battles) |
 <!---LeetCode Topics End-->
