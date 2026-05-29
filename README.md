@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3207-maximum-points-after-enemy-battles) |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0213-house-robber-ii) |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3207-maximum-points-after-enemy-battles) |
+## Segment Tree
+|  |
+| ------- |
+| [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 <!---LeetCode Topics End-->
