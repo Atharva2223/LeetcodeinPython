@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0503-next-greater-element-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0018-4sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
@@ -277,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
