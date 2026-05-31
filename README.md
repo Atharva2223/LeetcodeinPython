@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0070-climbing-stairs) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3021-alice-and-bob-playing-flower-game) |
 ## Memoization
 |  |
 | ------- |
