@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0503-next-greater-element-ii) |
+| [0695-max-area-of-island](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0904-fruit-into-baskets) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1020-number-of-enclaves) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1020-number-of-enclaves) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
