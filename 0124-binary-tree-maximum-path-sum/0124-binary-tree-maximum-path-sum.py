@@ -4,28 +4,23 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
-
     def solve(self, node):
-
-        
         if node is None:
             return 0
-        leftSum = self.solve(node.left)
+        leftsum = self.solve(node.left)
+        if leftsum < 0:
+            leftsum =  0
+        rightsum = self.solve(node.right)
 
-        if leftSum < 0:
-            leftSum = 0
-
-        rightSum = self.solve(node.right)
-
-        if rightSum < 0:
-            rightSum = 0
-
-        self.maxi = max(self.maxi, leftSum+node.val+rightSum)
-
-        return node.val+max(leftSum,rightSum)
+        if rightsum < 0:
+            rightsum = 0
         
+        self.maxi = max(self.maxi,leftsum+node.val+rightsum)
 
+        return node.val + max(leftsum,rightsum)
+        
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
         self.maxi = float('-inf')
         self.solve(root)
