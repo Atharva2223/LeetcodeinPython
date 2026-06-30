@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0055-jump-game) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3207-maximum-points-after-enemy-battles) |
 ## Segment Tree
 |  |
