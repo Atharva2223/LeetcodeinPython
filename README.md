@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/1004-max-consecutive-ones-iii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0208-implement-trie-prefix-tree) |
+| [0846-hand-of-straights](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0904-fruit-into-baskets) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Atharva2223/LeetcodeinPython/tree/master/2249-count-lattice-points-inside-a-circle) |
 ## Two Pointers
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0414-third-maximum-number) |
+| [0846-hand-of-straights](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0846-hand-of-straights) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0134-gas-station) |
+| [0846-hand-of-straights](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0846-hand-of-straights) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3207-maximum-points-after-enemy-battles) |
 ## Segment Tree
 |  |
