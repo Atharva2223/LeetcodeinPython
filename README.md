@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0208-implement-trie-prefix-tree) |
+| [0763-partition-labels](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0904-fruit-into-baskets) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Atharva2223/LeetcodeinPython/tree/master/2249-count-lattice-points-inside-a-circle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0283-move-zeroes) |
+| [0763-partition-labels](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0208-implement-trie-prefix-tree) |
+| [0763-partition-labels](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0763-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Atharva2223/LeetcodeinPython/tree/master/0846-hand-of-straights) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Atharva2223/LeetcodeinPython/tree/master/3207-maximum-points-after-enemy-battles) |
 ## Segment Tree
